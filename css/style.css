@@ -253,7 +253,7 @@ nav.affix-top {
 /*-------- header css --------------*/
 
 header {
-    background:url("../img/bg banner.png") ;
+    background:url("../img/bg_banner.png") ;
     background-attachment:fixed;
     background-size:cover;
     height: 670px;
